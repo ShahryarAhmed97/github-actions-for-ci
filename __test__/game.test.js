@@ -7,6 +7,7 @@ describe('Game', () => {
     p1 = 'Salem'
     p2 = 'Nate'
     game = new Game(p1, p2)
+  })
 
   describe('Game', () => {
     it('Initializes with two players', async () => {
