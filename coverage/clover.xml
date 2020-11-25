@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1606242602043" clover="3.2.0">
-  <project timestamp="1606242602043" name="All files">
+<coverage generated="1606322290418" clover="3.2.0">
+  <project timestamp="1606322290419" name="All files">
     <metrics statements="24" coveredstatements="24" conditionals="27" coveredconditionals="25" methods="7" coveredmethods="7" elements="58" coveredelements="56" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
     <file name="game.js" path="D:\8th_Semester\SQA\git-unit-testing\github-actions-for-ci\src\game.js">
       <metrics statements="24" coveredstatements="24" conditionals="27" coveredconditionals="25" methods="7" coveredmethods="7"/>
